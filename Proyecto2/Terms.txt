@@ -1,0 +1,83 @@
+GDPR Terms and Conditions for Wallahoot
+
+Last updated: 30/05/2025
+1. Introduction
+Welcome to Wallahoot. We are committed to protecting and respecting your privacy. This privacy policy explains how we collect, store, and handle your personal data in compliance with the General Data Protection Regulation (GDPR).
+
+By using Wallahoot, you consent to the collection and use of your personal data in accordance with this policy.
+
+2. Data We Collect
+We collect the following types of data:
+
+Personal Identification Information: Name, email address, phone number, etc.
+
+Usage Data: Information about how you interact with the app (pages viewed, time spent, etc.)
+
+Device Information: IP address, device type, browser type, and operating system.
+
+3. How We Use Your Data
+We use the collected data for the following purposes:
+
+To provide and maintain our service
+
+To notify you about changes to our service
+
+To provide customer support
+
+To gather analysis or valuable information so that we can improve our service
+
+To monitor the usage of our service
+
+To detect, prevent, and address technical issues
+
+4. Legal Basis for Processing Personal Data
+We process personal data under the following legal bases:
+
+Consent: You have given consent for processing your personal data for one or more specific purposes.
+
+Contractual Necessity: Processing is necessary for the performance of a contract.
+
+Legal Obligation: Processing is necessary for compliance with a legal obligation.
+
+Legitimate Interests: We may process your data to fulfill our legitimate business interests, provided this does not override your rights and freedoms.
+
+5. Data Retention
+We retain your personal data for as long as necessary to fulfill the purposes outlined in this policy. If you request the deletion of your personal data, we will comply as required by applicable laws.
+
+6. Your Data Protection Rights
+Under GDPR, you have the following rights:
+
+Right to Access: You can request a copy of the personal data we hold about you.
+
+Right to Rectification: You can request that we correct any inaccurate or incomplete data.
+
+Right to Erasure: You can request that we delete your personal data under certain conditions.
+
+Right to Restriction of Processing: You can request that we restrict the processing of your data under certain conditions.
+
+Right to Object: You can object to the processing of your data under certain circumstances.
+
+Right to Data Portability: You can request that we transfer your data to another service provider.
+
+To exercise any of these rights, please contact us at [Contact Email].
+
+7. Data Transfers
+Your personal data may be transferred to, and maintained on, computers located outside your state, province, country, or other governmental jurisdiction where data protection laws may differ from those of your jurisdiction.
+
+We will take all necessary steps to ensure your data is treated securely and in accordance with this Privacy Policy.
+
+8. Security of Data
+We take the security of your personal data seriously. We implement reasonable technical and organizational measures to protect your personal data from unauthorized access, disclosure, alteration, and destruction.
+
+However, please note that no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+9. Changes to This Privacy Policy
+We may update our GDPR terms and conditions from time to time. We will notify you of any changes by posting the new terms on this page. You are advised to review this page periodically for any changes. Changes to this policy are effective when they are posted on this page.
+
+10. Contact Us
+If you have any questions about this GDPR terms and conditions or the way we handle your personal data, please contact us at:
+
+Email: diego.tejero.jarabo@gmail.com
+Address: Wallahoot Productions S.A.
+Phone: 666777888
+
